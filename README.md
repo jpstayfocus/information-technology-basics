@@ -13,7 +13,10 @@ information technology the basics
 
 
 - Basic of Software Development
-  - [How website works?](https://www.debugbear.com/blog/how-websites-work)
+  - [How website works?](https://www.debugbear.com/blog/how-websites-work) 
+ 
+![Screenshot 2023-11-24 at 8 52 38 PM (2)](https://github.com/jpstayfocus/information-technology-basics/assets/110998062/1b35a0b7-ac3d-41e8-baeb-267a23a5b6ee)
+
  
   
     
