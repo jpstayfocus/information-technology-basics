@@ -18,5 +18,5 @@ information technology the basics
 ![Screenshot 2023-11-24 at 8 52 38 PM (2)](https://github.com/jpstayfocus/information-technology-basics/assets/110998062/1b35a0b7-ac3d-41e8-baeb-267a23a5b6ee)
 
  
-  
+## Programming Basics with JavaScript  
     
