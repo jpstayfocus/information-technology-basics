@@ -40,12 +40,7 @@ information technology the basics
 
 - Object use object group information and {}
 ----------------------------------------------------------------------------------------
-- Working with numbers (+,-,*,/)
-e.g.
-  - Calculating Prices, Ratings, Distances
-  - "+" between numbers, letters, letters and numbers is called "string concatanation"
-    
-- Variables
-  - Instead of writing the actual value 10 times, you write value once and reference that value every time you need it (avoid repetition)
-  - e.g. productAPrice = 50, (Variable = Actual value)
+
+- conditionals and comparators
+
 
