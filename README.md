@@ -13,5 +13,7 @@ information technology the basics
 
 
 - Basic of Software Development
-  - How website works?
+  - [How website works?](https://www.debugbear.com/blog/how-websites-work)
+ 
+  
     
