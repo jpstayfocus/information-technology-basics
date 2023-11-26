@@ -43,6 +43,6 @@ information technology the basics
 
 - conditionals and comparators [javascript](https://github.com/jpstayfocus/information-technology-basics/blob/main/Javascript/conditionals-and-comparators.js)
 - javascript [objects](https://github.com/jpstayfocus/information-technology-basics/blob/main/Javascript/objects.js)
-- [array](https://github.com/jpstayfocus/information-technology-basics/blob/main/Javascript/array.js) (basic exemple)
+- [array](https://github.com/jpstayfocus/information-technology-basics/blob/main/Javascript/array.js) (basic example)
 
 
