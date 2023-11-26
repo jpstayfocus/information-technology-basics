@@ -41,6 +41,6 @@ information technology the basics
 - Object use object group information and {}
 ----------------------------------------------------------------------------------------
 
-- conditionals and comparators
+- conditionals and comparators [javascript](https://github.com/jpstayfocus/information-technology-basics/blob/main/Javascript/conditionals-and-comparators.js)
 
 
