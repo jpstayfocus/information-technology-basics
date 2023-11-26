@@ -42,5 +42,6 @@ information technology the basics
 ----------------------------------------------------------------------------------------
 
 - conditionals and comparators [javascript](https://github.com/jpstayfocus/information-technology-basics/blob/main/Javascript/conditionals-and-comparators.js)
+- javascript objects
 
 
